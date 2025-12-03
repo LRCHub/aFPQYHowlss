@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "幾億光年",
+  "base_artist": "Omoinotake",
+  "createdAt": "2025-12-03T04:13:37.565612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/01_幾億光年_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幾億光年 - Ikuokukonen",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/02_幾億光年_-_Ikuokukonen_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/03_幾億光年_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幾億光年",
+      "artist": "Omoinotake - Topic",
+      "has_synced": true,
+      "path": "select/04_幾億光年_Omoinotake_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/05_幾億光年_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幾億光年 (instrumental)",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/06_幾億光年_(instrumental)_Omoinotake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/pl_01_幾億光年_Omoinotake.txt"
+    }
+  ]
+}
